@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/118182900/224830312-dbf38809-f099-4f09-b598-68e6ed5f9f81.png) Adrian Ku
 
-**`Digital enthusiast (Data Analyst/Content Creator/Gamer)`**
+**`Digital Explorer (Data Analyst/Content Creator/Gamer)`**
 
 As a recent graduate from a Big Data and Business Analytics program, possess technical skills and analytical skill sets required to excel as a data analyst. In previous roles as a data and financial analyst intern, gained hands-on experience in analyzing data to inform business decisions in an international environment. Excited to solve real-world problems with digital solutions
 
@@ -23,3 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 #
+
+<details>
+ <summary><h3>👨‍💻 Adrian's Coding Journey</h3></summary>
