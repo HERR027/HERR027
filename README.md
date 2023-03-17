@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/118182900/224830312-dbf38809-f099-4f09-b598-68e6ed5f9f81.png) Adrian Ku
+# <img align = "left" width = "30px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"> Adrian Ku
 
 **`Digital Explorer (Data Analyst/Content Creator/Gamer)`**
 
