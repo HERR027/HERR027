@@ -21,8 +21,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <img align="left" alt="DBeaver" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />
 <img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
 #
 
-<details>
- <summary><h3>👨‍💻 Adrian's Coding Journey</h3></summary>
+
